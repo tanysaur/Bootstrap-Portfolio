@@ -1,9 +1,8 @@
 .jumbotron {
-	/*background-image: url(https://static.pexels.com/photos/34020/pexels-photo.jpg);*/
 	background-image: url("../images/ysa_india2.jpg");
 }
 
 .col-md-3 img {
-	width: 204px;
-	height: 137px;
+	width: 197px;
+	height: 264px;
 }
