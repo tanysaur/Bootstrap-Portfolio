@@ -2,18 +2,12 @@
 	background-image: url("../images/ysa_india2.jpg");
 }
 
-.row img {
+.col-md-3 img {
 	width: 197px;
 	height: 264px;
-	float: left;
-	margin: auto 20px auto auto;
+
 }
 
-.thumbnail img {
-	width: 200px;
-	height: 200px;
-	margin: 25px;
-}
 
 /* Rules for screen widths at 768px or lower */
 /*
